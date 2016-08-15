@@ -3,7 +3,8 @@ Use this little express server to get back all Open Graph meta data from any web
 
 ###How to run:
   ```
-  1. node start.js
+  1. npm install
+  2. npm start
   ```
 
 ###How to use:
