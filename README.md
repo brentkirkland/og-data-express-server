@@ -14,9 +14,9 @@ Use this little express server to get back all [Open Graph](http://ogp.me/) meta
 
 ###How to use:
   ```
-  1. Post to localhost:3000/YOUR_URL, where YOUR_URL is the url you are trying to receive data from
-  2. Receive a JSON response with all OG data
+  1. Send a GET request to localhost:3000/YOUR_URL, where YOUR_URL is the url you are trying to receive data from
   ```
+  That's it! You should get some cool json back :)
 
 ###Tested with:
   Node: 6.3.1
