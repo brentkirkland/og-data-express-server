@@ -2,10 +2,13 @@
 Use this little express server to get back all [Open Graph](http://ogp.me/) meta data from any website.
 
 ###How to run:
+  ```bash
+  npm install
   ```
-  1. npm install
-  2. npm start
+  ```bash
+  npm start
   ```
+
 
 ###How to use:
   ```
