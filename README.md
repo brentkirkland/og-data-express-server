@@ -1,10 +1,12 @@
 #OG Data Express Server
 Use this little express server to get back all [Open Graph](http://ogp.me/) meta data from any website.
 
-###How to run:
+###Installation:
   ```bash
-  npm install
+  git clone https://github.com/brentkirkland/og-data-express-server && cd og-data-express-server && npm install
   ```
+
+###Running
   ```bash
   npm start
   ```
