@@ -6,7 +6,7 @@ Use this little express server to get back all [Open Graph](http://ogp.me/) meta
   git clone https://github.com/brentkirkland/og-data-express-server && cd og-data-express-server && npm install
   ```
 
-###Running
+###Running:
   ```bash
   npm start
   ```
@@ -14,9 +14,9 @@ Use this little express server to get back all [Open Graph](http://ogp.me/) meta
 
 ###How to use:
   ```
-  1. Send a GET request to localhost:3000/YOUR_URL, where YOUR_URL is the url you are trying to receive data from
+  1. Send a GET request to localhost:3000/YOUR_URL
   ```
-  That's it! You should get some cool json back :)
+  That's it! YOUR_URL is the website you would like to get your data from. After that you'll see some pretty json.
 
 ###Tested with:
   Node: 6.3.1
